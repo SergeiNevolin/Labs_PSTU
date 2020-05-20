@@ -1,0 +1,18 @@
+﻿  graph.cpp
+C:\Users\serge\source\repos\commi\commi\graph.cpp(105,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(108,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(161,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(162,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(173,8): error C2065: standView: необъявленный идентификатор
+C:\Users\serge\source\repos\commi\commi\graph.cpp(311,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(318,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(438,2): error C2065: standView: необъявленный идентификатор
+C:\Users\serge\source\repos\commi\commi\graph.cpp(478,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(503,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(528,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(553,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(578,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(603,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\serge\source\repos\commi\commi\graph.cpp(684,3): error C2065: standView: необъявленный идентификатор
+C:\Users\serge\source\repos\commi\commi\graph.cpp(705,4): error C2065: standView: необъявленный идентификатор
+C:\Users\serge\source\repos\commi\commi\graph.cpp(724,23): warning C4018: <: несоответствие типов со знаком и без знака
